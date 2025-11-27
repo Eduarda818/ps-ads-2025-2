@@ -24,7 +24,7 @@ export default function FooterBar() {
          }
        }}
      >
-       Desenvolvido e mantido com <CoffeeIcon fontSize="small"/> por <a href="mailto:eduardamarve@20gmail.com">Eduarda Marve</a>
+       Desenvolvido e mantido com <CoffeeIcon fontSize="small"/> por <a href="mailto:eduardamarve@20gmail.com">Eduarda Marve Palhares Fernandes</a>
 
 
      </Typography>
